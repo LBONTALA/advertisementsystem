@@ -1,0 +1,16 @@
+co\in\firstproject\repository\UserRepository.class
+co\in\firstproject\service\ICategoryService.class
+co\in\firstproject\service\AdvertisementServiceImpl.class
+co\in\firstproject\service\IUserService.class
+co\in\firstproject\entity\Category.class
+co\in\firstproject\entity\User.class
+co\in\firstproject\controller\CategoryController.class
+co\in\firstproject\repository\CategoryRepository.class
+co\in\firstproject\service\CategoryServiceImpl.class
+co\in\firstproject\controller\AdvertisementController.class
+co\in\firstproject\FirstprojectApplication.class
+co\in\firstproject\entity\Advertisement.class
+co\in\firstproject\repository\AdvertisementRepository.class
+co\in\firstproject\service\IAdvertisementService.class
+co\in\firstproject\service\UserServiceImpl.class
+co\in\firstproject\controller\UserController.class
